@@ -10,7 +10,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgg9083&show_icons=true&theme=transparent)
 
 
-           ![Descrição da imagem](URL-da-imagem)
+          
  ![image](https://github.com/user-attachments/assets/9dbc24dd-7cfb-4c4b-b4d2-7d409205701f)
 
 
