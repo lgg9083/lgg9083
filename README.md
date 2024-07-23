@@ -9,7 +9,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgg9083&show_icons=true&theme=transparent)
 
-![Descrição da imagem](https://camo.githubusercontent.com/d19a8bbb2a4f295b61556e7b1c45d576a91ed35fd17a80750dd86d115f3a3bda/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66352f38662f65382f66353866653865313961376532356464663063343539613335393932363164362e676966)
 
 
 
