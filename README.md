@@ -1,8 +1,7 @@
 
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs?username=lgg9083&show_icons=true&locale=en&layout=compact
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lgg9083&show_icons=true&locale=en&layout=compact" alt="GitHub Stats">
   <a href="https://www.instagram.com/luccas_gonca">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -17,9 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9dbc24dd-7cfb-4c4b-b4d2-7d409205701f" alt="Image">
-</p>
 
 
 
