@@ -15,7 +15,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgg9083&show_icons=true&locale=en&layout=compact" alt="GitHub Stats">
+<p align="center" >
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lgg9083&show_icons=true&locale=en&layout=compact" alt="GitHub Stats">
+</p>
 
 </p>
 
